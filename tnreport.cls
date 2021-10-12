@@ -451,6 +451,11 @@
   \hspace{5cm}{\bf Fait à \place{},     le  \date{}}
 
   \hspace{5cm}{\bf Signature :}
+   \begin{figure}[!h]
+  \centering
+  \includegraphics[width=2cm]{figures/signature.png}
+  \label{signature}
+  \end{figure}
 \cleardoublepage
 }
 \makeatother
